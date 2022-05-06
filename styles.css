@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.container{
+padding: 48px;
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+img{
+    position: relative;
+    margin-top: 34px;
+}
